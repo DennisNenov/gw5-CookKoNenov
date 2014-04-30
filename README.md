@@ -1,13 +1,5 @@
 gw5-CookKoNenov
 ===============
-HW 35: Bugs Doney
-Due F 2014-05-02, 8:00am, EST.
-Work through Part 5 of GridWorld:
-Independently, read through the narrative.
-As a trio, respond to prompts and plan approach to coding tasks.
-As a trio or independently, write the requested code (Part 5 Exercises, minus #2), and push your collective response to your shared repo on GitHub.
-As a trio, pick a Critter subclass to implement from NewCritter<pd>.txt (available on piazza). In a block comment at the top of your .java file, explain your choice.
-Upload to HW server a plaintext file containing responses to “Do You Know?” Sets 10-11.
 Format for HW server submission:
 NAME --- TEAM NAME
 <SSH clone URL of your trio’s GitHub repo>
