@@ -1,18 +1,17 @@
 gw5-CookKoNenov
 ===============
-Format for HW server submission:
-NAME --- TEAM NAME
-<SSH clone URL of your trio’s GitHub repo>
-APCS pd #
-HW## -- GridWorld, Part 5
-yyyy-mm-dd
+TEAM COOKKONENOV
+git@github.com:DennisNenov/gw5-CookKoNenov.git
+APCS pd 9
+HW35 -- GridWorld, Part 5
+2014-04-30
 Do You Know?
 Set 10
 …
 Do You Know?
 Set 11
 …
-Format for ____Critter.java:
+Format for HummingbirdCritter.java:
 /*****************************************************************
  * NAME --- TEAM NAME
  * APCS pd #
@@ -31,5 +30,5 @@ Format for ____Critter.java:
  * <any extra test cases, any developer decisions, or
  * other judgment calls your team made to get the class working...>
  *****************************************************************/
-public class ___Critter ... {
+public class HummingbirdCritter ... {
 }
