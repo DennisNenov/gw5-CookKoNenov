@@ -8,6 +8,7 @@ HW35 -- GridWorld, Part 5
 
 Log:
 
--README updated
--README updated
--Hummingbird.java functionally added; README updated.
+-README updated\n
+-README updated\n
+-Hummingbird.java functionally added; README updated.\n
+-README updated\n
