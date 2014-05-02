@@ -27,7 +27,7 @@ public class Unbounded<E> extends AbstractGrid<E> {
 public E get(Location l){ 
   if (isValid(l)==false) {
    throw new Exception("");
-}
+}//O(1)
  if(l.getRow() >= side || l.getCol() >= side) {
  return null; 
  }
@@ -49,7 +49,8 @@ public E get(Location l){
  E old = get(l); 
 peoples[l.getRow()][l.getCol()] = obj; 
  return old; 
- } 
+ }//O(1) unless bigger then side, then O(side^2)
+ 
  public ArrayList<Location> getOccupiedLocations(){ 
   ArrayList<Location> places = new ArrayList<Location>(); 
  
